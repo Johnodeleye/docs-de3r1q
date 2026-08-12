@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-xyrlbg.indocuan-win.sbs/sitemap.xml
